@@ -1,0 +1,64 @@
+
+
+.Hobby h1{
+text-align: center;
+}
+/* htext er hobby text så design til den texten */
+.htext{
+    padding-left: 10.5%;
+    padding-right: 10.5%;
+    background-color: rgb(100, 100, 100);
+    color: black;
+    padding-bottom: 2%;
+}
+body    {
+    background-color: whitesmoke;
+}
+/* All koden til footer */
+footer {
+    text-align: center;
+    font-family: "Inconsolata";
+    background-color: #D3D3D3;
+    bottom: 0px;
+    padding: 20px;
+}
+footer a{
+    color: black;
+}
+.img{
+    width: 100%;
+}
+.itext{
+    margin-left: 0.5%;
+}
+.utext a{ 
+    color: black;
+}
+.utext{
+    padding-left: 20px;  
+    padding-bottom: 20px;
+    background-color: darkgrey;
+}
+/* Brukes til 3 bilder på utdanning gjør at de står ved siden av hverandre */
+.images{
+    text-align: center;
+    margin: 80px 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.images li{
+    display: inline-block;
+    width: 20%;
+
+}
+.images li img{
+    max-width: 100%;
+}
+.text-center{
+    background-color: rgb(100, 100, 100);
+    padding-top: 75px;
+}
+.atext{
+    background-color: darkgrey;
+    padding: 20px;
+}
